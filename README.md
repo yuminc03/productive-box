@@ -70,3 +70,6 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Go to the "Actions" tab on your fork
 1. Select the "Update gist" workflow
 1. Click the "Run workflow" button
+
+# GitHub에 적용 완료
+2026년 7월 10일에 GitHub 프로필에 적용함!🙂
